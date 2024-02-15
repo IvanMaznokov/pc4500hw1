@@ -27,7 +27,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="[https://imgur.com/gallery/4rAXx5x](https://github.com/IvanMaznokov/pc4500hw1/blob/main/screenshots/aboutme.png)" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
+<img src="https://github.com/IvanMaznokov/pc4500hw1/blob/main/screenshots/aboutme.png" title='Screenshot' width='' alt='Example Video Walkthrough' />
 
 
 ## Notes:
