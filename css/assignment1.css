@@ -1,0 +1,22 @@
+body {
+	background-color: lightgreen;
+	text-align: center;
+}
+
+h1 {
+	color: navy;
+}
+
+h1, h2 {
+	border: 5px solid red;
+}
+
+h2 {
+	color: green;
+}
+
+p {
+	color: blue;
+}
+
+	
